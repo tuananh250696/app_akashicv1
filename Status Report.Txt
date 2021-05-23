@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:29:39 AM On 5/23/2021
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [TA_SmarthomeBasic_V1.PcbDoc]
+   Generated File[TA_SmarthomeBasic_V1 2021-05-23 01-29.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:29:50 AM On 5/23/2021
